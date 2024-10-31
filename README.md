@@ -82,9 +82,6 @@ Implementamos o controlador `ReceitasController`, que gerencia as operações re
 [ApiController]
 [Route("api/[controller]")]
 public class ReceitasController : ControllerBase
-{
-    // Métodos para manipulação de receitas
-}
 ```
 
 ### 6. Gerar documentação da API no Swagger
